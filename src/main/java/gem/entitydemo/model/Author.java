@@ -57,7 +57,7 @@ public class Author
         return "Author{" +
                 "authorId=" + authorId +
                 ", authorName='" + authorName + '\'' +
-                ", bookSet=" + bookSet +
+//                ", bookSet=" + bookSet +
                 '}';
     }
 

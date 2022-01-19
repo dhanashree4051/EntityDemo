@@ -62,7 +62,7 @@ public class Book
         return "Book{" +
                 "bookId=" + bookId +
                 ", bookTitle='" + bookTitle + '\'' +
-                ", authorSet=" + authorSet +
+//                ", authorSet=" + authorSet +
                 '}';
     }
 
